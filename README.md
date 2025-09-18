@@ -69,7 +69,7 @@ Para compilar e executar este projeto, você precisará ter o **SDK do .NET 9** 
 1.  **Clone ou baixe o projeto**
     Se estiver usando Git, clone o repositório:
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/mateus4costa/AV1.git
     ```
     Caso contrário, apenas baixe e descompacte os arquivos em uma pasta de sua preferência.
 
