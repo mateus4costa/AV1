@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Toolkit em C#
 
 Este é um aplicativo de console desenvolvido em C# (.NET 9) como um toolkit de ferramentas para a disciplina de **COMPUTAÇÃO CIENTÍFICA**. O projeto consolida cinco módulos distintos, cada um abordando um conceito específico de teoria da computação e lógica, acessíveis através de um menu interativo.
@@ -102,5 +101,3 @@ Este projeto foi desenvolvido por:
 | *Pedro Pereira Dias* | *06003504* |
 | *Mateus Sampaio* | *06003438* |
 =======
-# AV1
->>>>>>> cbe965f77e556b33e3579b0131da71da740334c2
